@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Cavolicchio
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Statistics and Computer Science, Bocconi University, 2021-Current
+* M.S. Statistical Sciences, University of Padua, 2019-2021
+* B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 
 
 Work experience
 ======
