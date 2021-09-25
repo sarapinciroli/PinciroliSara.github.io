@@ -23,3 +23,7 @@ Skills
 ======
 * Programming Language: R, Python
 * Languages: Italian (mothertongue), English
+
+Interests and Activities
+======
+* Sports, amateur basketball player since I was 6
