@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 * Internship at Deloitte Consulting (Actuarial Department), Spring 2016
+* Teaching Assistant for the course Statistics (30001) at Bocconi University
 
 Skills
 ======
