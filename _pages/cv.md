@@ -22,7 +22,7 @@ Work experience
 
 Skills
 ======
-* Programming Language: R, Python
+* Programming Language: R, Python, Julia
 * Languages: Italian (mothertongue), English
 
 Interests and Activities
