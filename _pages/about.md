@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a secibd year PhD student in Statistics and Computer Science at Bocconi University, Milan.
+I am a second year PhD student in Statistics and Computer Science at Bocconi University, Milan.
