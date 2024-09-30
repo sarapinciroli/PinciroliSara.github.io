@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am afirst year PhD student in Statistics and Computer Science at Bocconi University, Milan.
+I am afirst year PhD student in Statistics and Computer Science at Bocconi University, Milan. I based my previous projects and studies on the field of Optimization and Operations Research. 
 
-I'm graduated in mathematics fro University of Pavia. 
+I'm graduated in mathematics from University of Pavia, with a large number of experiences abroad, from Norway to Portugal passing through France and Saudi Arabia. 
 
-You cancontact me at the address marta.pozzi2@phd.unibocconi.it
+You can contact me at the address marta.pozzi2@phd.unibocconi.it
