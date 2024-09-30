@@ -22,9 +22,9 @@ Work experience
 
 Further experiences abroad
 ======
-*Erasmus at Univesitet i Bergen (Bergen, Norway, 2020-2021)
-*Study project at Universitè de Lyon 1 (Lyon, France, Fall 2021)
-*Erasmus at Universidade de Lisboa (Lisbon, Portugal, 2022-2023)
+* Erasmus at Univesitet i Bergen (Bergen, Norway, 2020-2021)
+* Study project at Universitè de Lyon 1 (Lyon, France, Fall 2021)
+* Erasmus at Universidade de Lisboa (Lisbon, Portugal, 2022-2023)
 
 Skills
 ======
