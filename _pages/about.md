@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Giovanni Romanò"
+title: "Marta Pozzi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in Statistics and Computer Science at Bocconi University, Milan.
+I am afirst year PhD student in Statistics and Computer Science at Bocconi University, Milan.
 
-You can contact me at giovanni[dot]romano4[at]phd[dot]unibocconi[dot]it.
+I'm graduated in mathematics fro University of Pavia. 
 
-You can find me in the Office 3-e2-07 in the Grafton Building (via Rontgen 1, Milan, 20136).
+You cancontact me at the address marta.pozzi2@phd.unibocconi.it
