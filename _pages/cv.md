@@ -11,20 +11,27 @@ redirect_from:
 
 Education
 ======
-* PhD in Statistics and Computer Science, Bocconi University, 2021-Current
-* M.S. Statistical Sciences, University of Padua, 2019-2021
-* B.S. in Statistics and Management of Information, University of Milan-Bicocca, 2016-2019 
+* PhD in  Computer Science, Bocconi University, 2024-Current
+* M.S. in Mathematics, University of Pavia, 2021-2024
+* B.S. in Mathematics, University of Pavia, 2018-2021 
 
 Work experience
 ======
-* Internship at Deloitte Consulting (Actuarial Department), Spring 2016
-* Teaching Assistant for the course Statistics (30001) at Bocconi University (a.y. 2022-23, 2023-2024)
+* Internship at KAUST, AI department, under the supervision of Peter Richtarik (Fall 2023)
+* Internship at NOVA University of Lisbon, Operations research department, under the supervision of Ana Louisa Custodio (Spring 2024)
+
+Further experiences abroad
+======
+*Erasmus at Univesitet i Bergen (Bergen, Norway, 2020-2021)
+*Study project at Universitè de Lyon 1 (Lyon, France, Fall 2021)
+*Erasmus at Universidade de Lisboa (Lisbon, Portugal, 2022-2023)
 
 Skills
 ======
-* Programming Language: R, Python, Julia
-* Languages: Italian (mothertongue), English
+* Programming Language: Python, Matlab, R, Julia
+* Languages: Italian (mothertongue), English (C1), French (fluent) and basic Portuguese 
 
 Interests and Activities
 ======
-* Sports, amateur basketball player since I was 6
+* I'm extremely passionate about running and swimming, and I love outdoor activities
+
