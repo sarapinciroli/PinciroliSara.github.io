@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marta Pozzi"
+title: "Sara Pinciroli"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Statistics and Computer Science at Bocconi University, Milan. I based my previous projects and studies on the field of Optimization and Operations Research. 
+I am a first year PhD student in Statistics and Computer Science at Bocconi University, Milan. I based my previous projects and studies on the field of Probability and Statistics Theory. 
 
-I'm graduated in mathematics from University of Pavia, with a large number of experiences abroad, from Norway to Portugal passing through France and Saudi Arabia. 
+I'm graduated in Mathematics at the University of Pavia. I attended the Erasmus Traineeship program to write my Master's Thesis abroad at the Heriot Watt University of Edinbrugh. 
 
-You can contact me at the address marta.pozzi2@phd.unibocconi.it
+You can contact me at the address sara.pinciroli2@phd.unibocconi.it
