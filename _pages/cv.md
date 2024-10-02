@@ -9,29 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* PhD in  Computer Science, Bocconi University, 2024-Current
-* M.S. in Mathematics, University of Pavia, 2021-2024
-* B.S. in Mathematics, University of Pavia, 2018-2021 
+* PhD in Statistics and Computer Science
+University Luigi Bocconi, Milan, Italy
+Sep 2024 – in progress
 
-Work experience
-======
-* Internship at KAUST, AI department, under the supervision of Peter Richtarik (Fall 2023)
-* Internship at NOVA University of Lisbon, Operations research department, under the supervision of Ana Louisa Custodio (Spring 2024)
+* M.Sc in  Mathematics 
+University of Pavia, Pavia, Italy
+Sep 2022 – Sep 2024
+Master thesis: “An introduction to Interacting Diffusion”
+Supervisors: Carlo Orrieri, Michela Ottobre
+Grade: 110/110 cum laude
 
-Further experiences abroad
-======
-* Erasmus at Univesitet i Bergen (Bergen, Norway, 2020-2021)
-* Study project at Universitè de Lyon 1 (Lyon, France, Fall 2021)
-* Erasmus at Universidade de Lisboa (Lisbon, Portugal, 2022-2023)
+* B.Sc in  Mathematics 
+University of Pavia, Pavia, Italy
+Sep 2019 – Sep 2022
+Bachelor thesis: “Teoria dei grafi aleatori”
+Supervisor: Carlo Orrieri
+Grade: 110/110 cum laude
 
-Skills
-======
-* Programming Language: Python, Matlab, R, Julia
-* Languages: Italian (mothertongue), English (C1), French (fluent) and basic Portuguese 
+* High School Diploma 
+Liceo Scientifico Giuseppe Novello, Codogno (LO), Italy
+Sep 2014 – Jul 2019
+Grade: 100/100
 
-Interests and Activities
+Awards and Scholarships 
 ======
-* I'm extremely passionate about running and swimming, and I love outdoor activities
+* PhD Scholarships
+University Luigi Bocconi, Milan, Italy
+Sep 2024 – in progress
+
+Research Interests
+======
+* Stochastic processes, Stochastic Differential Equations
+
+
+Studies abroad
+======
+* Master Thesis abroad - Erasmus Traineeships program
+Heriot Watt University, Edinburgh, UK
+Jan 2024 – Jul 2024
+
+Language  Skills
+======
+* Italian: native
+* English: fluent - B2 
+
+
+IT  Skills
+======
+* Python, Matlab: good knowledge
+* Word, Power Point: good knowledge
+
+
+Voluteer Activities
+======
+* Volunteer work for Proloco Oriese
+Aug 2014 – in progress
 
