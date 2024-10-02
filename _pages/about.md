@@ -12,4 +12,4 @@ I am a first year PhD student in Statistics and Computer Science at Bocconi Univ
 
 I'm graduated in Mathematics at the University of Pavia. I attended the Erasmus Traineeship program to write my Master's Thesis abroad at the Heriot Watt University of Edinbrugh. 
 
-You can contact me at the address sara.pinciroli2@phd.unibocconi.it
+You can contact me at the address sara.pinciroli@phd.unibocconi.it
